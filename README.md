@@ -1,4 +1,4 @@
-# OrgFacebook
+# Overview
 
 Sometimes you wanna leave Facebook for your own reasons and you decide to delete it permanently but you don't wanna get rid of all those pictures you sent and received while using it.
 Like Twitter and Google, Facebook also has this awesome feature to download a (html, json) file with all the folders (inbox, contacts, posts, stories ...) a complete copy of your Facebook account's activity. 
