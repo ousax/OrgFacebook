@@ -28,4 +28,3 @@ Available actions
 - l_i To extract the login informations  
 - c_r Extract the comments, reactions
 - p_i Personal informations
--  
