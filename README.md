@@ -16,5 +16,16 @@ bs4
 
 # Usage
 
-python orgfacebook.py -f facebook-userId.zip -a action 
-. - f 
+python orgfacebook.py -f facebook-userId -a c_pi 
+python orgfacebook.py -f facebook-userId -a e_c
+
+- f Facebook Folder
+Available actions 
+- c_pi To copy pictures (the default value) 
+- c_b To copy the address Book
+- e_c To extract a specific conversation and also to perform a RegExp search for Emails, Phones  
+- s_r Stories reaction
+- l_i To extract the login informations  
+- c_r Extract the comments, reactions
+- p_i Personal informations
+-  
