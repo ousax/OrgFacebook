@@ -16,4 +16,5 @@ bs4
 
 # Usage
 
-python orgfacebook.py -f facebook-userId.zip 
+python orgfacebook.py -f facebook-userId.zip -a action 
+. - f 
